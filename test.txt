@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hey im frature-1 branch
+=======
+hry im frature-1 branch
+>>>>>>> parent of f538638 (feature-1 branch commit)
